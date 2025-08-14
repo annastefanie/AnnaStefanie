@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Anna!
+🎯 **Apaixonada por tecnologia** e sempre em busca de aprender e criar soluções criativas.  
+💻 Estudante de **Análise e Desenvolvimento de Sistemas** e aspirante a Desenvolvedora Front-End.  
+📚 Tenho conhecimentos e estudo constante em **algoritmos**, **lógica de programação** e **JavaScript**.
 
-<!--
-**annastefanie/annastefanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias & Ferramentas
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js
+- **Controle de Versão**: Git & GitHub
+- **Outros**: APIs, versionamento e deploy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 Objetivos
+- Desenvolver projetos que unam criatividade e tecnologia.
+- Evoluir na área de desenvolvimento fullstack.
+- Contribuir com a comunidade dev.
+
+---
+
+## 📬 Como me encontrar
+- **LinkedIn**: https://www.linkedin.com/in/anna-stefanie-alves-pereira-324897178/
+- **Email**: annastefaniealves@gmail.com
+
+> 🌟 “Tecnologia é o presente que nos permite moldar o futuro.”
